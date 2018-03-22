@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /unit2/rot13.*
+  script: rot13.app
+||||||| merged common ancestors
+=======
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /unit2/rot13.*
+  script: rot13.app
+>>>>>>> 5d562da112f58eaa8c530cceb9e0cb2c14f99850
